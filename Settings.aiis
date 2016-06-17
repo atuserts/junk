@@ -11,7 +11,7 @@
     "BaseClassName": "BaseWebAiiTest",
     "UrlRecordMode": 2,
     "HighlightBorderColor": -65536,
-    "HighlightBorderSize": 2,
+    "HighlightBorderSize": 1,
     "CodeGenerationElementIdentificationType": 1,
     "UrlHistory": [],
     "AbsoluteDragDropRecording": true,
@@ -172,7 +172,7 @@
     "TpUserName": "webui",
     "TpPassword": "mG0pL/+k6sX9+UCyY5s+CA==",
     "TpUseWindowsAuth": false,
-    "TpSkipAuthDialog": true,
+    "TpSkipAuthDialog": false,
     "TpDefaultProjectId": -1,
     "RecordWpfWindowStateChanged": false,
     "PromptNameOnAddElement": true,
@@ -193,7 +193,7 @@
       }
     },
     "IsOnline": true,
-    "ProjectLanguage": 2,
+    "ProjectLanguage": 1,
     "ProjectReferences": [
       "System",
       "System.Core",
